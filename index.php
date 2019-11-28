@@ -11,7 +11,7 @@
 		background-size: cover;
 	}
 	h1{
-		color: yellow;
+		color: #ff3393;
 		font-family: courier
 	}
 	h2{
